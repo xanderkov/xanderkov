@@ -28,10 +28,3 @@ You can see set of mostly used technologies and libraries below:
 [![Sklearn](https://img.shields.io/badge/-Sklearn-0000?logo=Scikit-learn&logoColor=white)]()
 
 
-### :mailbox: Contact info
-
-You can check out my CV.
-
-Also you can contact me via:
-
-[![VK](https://vk.com/xanderkov)]
