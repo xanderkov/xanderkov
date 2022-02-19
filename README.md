@@ -28,3 +28,4 @@ You can see set of mostly used technologies and libraries below:
 [![Sklearn](https://img.shields.io/badge/-Sklearn-0000?logo=Scikit-learn&logoColor=white)]()
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xanderkov&show_icons=true&hide=prs&theme=react)](https://github.com/anuraghazra/github-readme-stats)
