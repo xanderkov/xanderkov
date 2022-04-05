@@ -6,8 +6,6 @@
 - 🤔 I’m looking for help with my deep learning project
 - 💬 Ask me about my (Non-trivial films project) or RWDL (remove watermark DL)
 - 📫 How to reach me: xanderkov@gmail.com or xanderfox21@gmail.com
-- 😄 Pronouns: a secret that is kept even from me
-- ⚡ Fun fact: Штирлиц топил всю ночь печь, а на утро она всё же утонула
 
 
 My name is **Alexander Kovel**. Currently I'm a software engineer student at BMSTU. I am interested in machine and deep learning research.
