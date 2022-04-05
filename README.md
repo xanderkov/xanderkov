@@ -30,6 +30,7 @@ You can see set of mostly used technologies and libraries below:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xanderkov&show_icons=true&hide=prs&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+## :star2: Stats
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xanderkov&show_icons=true&hide=prs&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-potatohd.vercel.app/api/top-langs/?username=xanderkov&hide=jupyter%20notebook&langs_count=15&theme=github_dark&layout=compact&count_private=true&border_color=373b42)](https://github.com/anuraghazra/github-readme-stats)
