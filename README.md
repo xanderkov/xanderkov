@@ -25,6 +25,11 @@ You can see set of mostly used technologies and libraries below:
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-0000?logo=Tensorflow&color=orange&logoColor=white)]()
 [![Sklearn](https://img.shields.io/badge/-Sklearn-0000?logo=Scikit-learn&logoColor=white)]()
 
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xanderkov&show_icons=true&hide=prs&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-potatohd.vercel.app/api/top-langs/?username=xanderkov&hide=jupyter%20notebook&langs_count=15&theme=github_dark&layout=compact&count_private=true&border_color=373b42)](https://github.com/anuraghazra/github-readme-stats)
