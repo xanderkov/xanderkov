@@ -18,17 +18,16 @@ My main programming language is Python 3, because it is very useful and comforta
 
 You can see set of mostly used technologies and libraries below:
 
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)]()
-[![Python 3](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)]()
-[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)]()
-[![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white)]()
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-0000?logo=Tensorflow&color=orange&logoColor=white)]()
-[![Sklearn](https://img.shields.io/badge/-Sklearn-0000?logo=Scikit-learn&logoColor=white)]()
 
-
+[![Python 3](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]()
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Sqllite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)]()
 
 ## :star2: Stats
 
