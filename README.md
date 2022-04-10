@@ -35,7 +35,7 @@ You can see set of mostly used technologies and libraries below:
 <center>
       <div>
            <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=xanderkov&theme=jolly&show_icons=true&hide_border=true&count_private=true&layout=compact" /> </td>
-           <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderkov&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /> </td>
+           <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xanderkov&layout=compact" /> </td>
       </div>
 </center>
 
