@@ -32,3 +32,12 @@ You can see set of mostly used technologies and libraries below:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Sqllite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+
+<center>
+      <div>
+           <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=xanderkov&theme=jolly&show_icons=true&hide_border=true&count_private=true&layout=compact" /> </td>
+           <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderkov&theme=jolly&count_private=true&hide=html&layout=compact" /> </td>
+      </div>
+</center>
+
