@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning machine learning and deep learning
 - 👯 I’m looking to collaborate on deep learning projects
 - 🤔 I’m looking for help with my deep learning project
-- 💬 Ask me about my (Non-trivial films project) or RWDL (remove watermark DL)
+- 💬 Ask me about my (Non-trivial films project) or ics7-ppo
 - 📫 How to reach me: xanderkov@gmail.com or xanderfox21@gmail.com
 
 
@@ -14,7 +14,7 @@ My name is **Alexander Kovel**. Currently I'm a software engineer student at BMS
 
 ### :computer: List of technologies
 
-My main programming language is Python 3, because it is very useful and comfortable for performing machine learning experiments. I am familiar both with classical methods (linear regression, gradient boosting e.g.) and deep learning models. I use Google Colab.
+My main programming language is Python 3, because it is very useful and comfortable for performing machine learning experiments. I am familiar both with classical methods (linear regression, gradient boosting e.g.) and deep learning models. 
 
 You can see set of mostly used technologies and libraries below:
 
